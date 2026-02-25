@@ -26,7 +26,7 @@ Collection: users
 
 Check API health:
 
-python main.py --api https://example.com
+python main.py --api https://URL
 
 Run without API:
 

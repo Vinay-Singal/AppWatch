@@ -1,0 +1,6 @@
+INFO Server started successfully
+WARNING Disk space running low
+ERROR Failed to connect to payment service
+INFO User login successful
+ERROR Timeout while calling external API
+WARNING High memory usage detected
